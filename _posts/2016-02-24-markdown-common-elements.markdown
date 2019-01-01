@@ -8,7 +8,7 @@ tag:
 - markdown
 - elements
 star: true
-category: blog
+category: DEMO(blog)
 author: johndoe
 description: Markdown summary with different options
 ---
